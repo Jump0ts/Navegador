@@ -1,0 +1,22 @@
+C:\Users\Jump0ts\Desktop\Grado\Proyectos Visual\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Jump0ts\Desktop\Grado\Proyectos Visual\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Jump0ts\Desktop\Grado\Proyectos Visual\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Jump0ts\Desktop\Grado\Proyectos Visual\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Navegador.csprojAssemblyReference.cache
+C:\Users\Jump0ts\Desktop\Grado\Proyectos Visual\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Jump0ts\Desktop\Grado\Proyectos Visual\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.VNavegador.resources
+C:\Users\Jump0ts\Desktop\Grado\Proyectos Visual\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Navegador.csproj.GenerateResource.cache
+C:\Users\Jump0ts\Desktop\Grado\Proyectos Visual\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Jump0ts\Desktop\Grado\Proyectos Visual\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Jump0ts\Desktop\Grado\Proyectos Visual\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.VFavorito.resources
+C:\Users\Jump0ts\Desktop\Grado\Proyectos Visual\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.VHistorial.resources
+C:\Users\Jump0ts\source\repos\Navegador\Navegador\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Jump0ts\source\repos\Navegador\Navegador\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Jump0ts\source\repos\Navegador\Navegador\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Jump0ts\source\repos\Navegador\Navegador\obj\Debug\Navegador.csprojAssemblyReference.cache
+C:\Users\Jump0ts\source\repos\Navegador\Navegador\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Jump0ts\source\repos\Navegador\Navegador\obj\Debug\WindowsFormsApp1.VFavorito.resources
+C:\Users\Jump0ts\source\repos\Navegador\Navegador\obj\Debug\WindowsFormsApp1.VHistorial.resources
+C:\Users\Jump0ts\source\repos\Navegador\Navegador\obj\Debug\WindowsFormsApp1.VNavegador.resources
+C:\Users\Jump0ts\source\repos\Navegador\Navegador\obj\Debug\Navegador.csproj.GenerateResource.cache
+C:\Users\Jump0ts\source\repos\Navegador\Navegador\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Jump0ts\source\repos\Navegador\Navegador\obj\Debug\WindowsFormsApp1.pdb
